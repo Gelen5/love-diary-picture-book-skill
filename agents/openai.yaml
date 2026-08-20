@@ -1,0 +1,4 @@
+interface:
+  display_name: Love Diary Picture Book
+  short_description: Turn supplied chats and photos into a confirmed Q-style love-story picture book PDF
+  default_prompt: Create a chronological Q-style romantic picture book from the user's supplied chat export and photos. Start with the character sheet and timeline, stop for confirmation at each gate, and deliver a checked PDF without building a webpage.
